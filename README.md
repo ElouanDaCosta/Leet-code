@@ -11,4 +11,5 @@ Link to my leet code profile: [Leet Code](https://leetcode.com/u/ElouanDaCosta/)
 |solved| Roman to Integer | golang/romanToInt | easy | <br>
 |solved| Merge Strings Alternately | typescript/merge-string | easy | <br>
 |solved| Left and right sum differences | typescript/sum-differences | easy | <br>
+|solved| Sort array by parity | golang/sortArrayByParity | easy | <br>
 </p>
