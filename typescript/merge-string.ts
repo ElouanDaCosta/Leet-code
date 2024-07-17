@@ -1,3 +1,5 @@
+// Link to the exercice https://leetcode.com/problems/merge-strings-alternately/description/
+
 function mergeAlternately(word1: string, word2: string): string {
   let wordArray1: string[];
   let wordArray2: string[];

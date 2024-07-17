@@ -1,3 +1,5 @@
+// Link to the exercice https://leetcode.com/problems/left-and-right-sum-differences/description/
+
 function leftRightDifference(nums: number[]): number[] {
   let leftSum: number[] = [0];
   let rightSum: number[] = [0];
